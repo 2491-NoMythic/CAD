@@ -1,41 +1,7 @@
 ITEM NO.,PART NUMBER,DESCRIPTION,QTY.
-1,Unibody,,1
-2,217-2614-001_12t,,12
-3,217-2454-001 Rev1,,6
-4,217-2454-004 Rev1,,6
-5,217-2617-004 Rev1_97431A340,,6
-6,217-2454-003 Rev1,,6
-7,217-2731,,6
-8,217-2707-001_40t,,6
-9,217-2708-001_40t,,6
-10,217-2734,,6
-11,217-2733,,12
-12,Grahill Encoder,,6
-13,217-2428-019 Rev1,,6
-14,SCREW-832-0375,,24
-15,217-2703-001_24t,,6
-16,832-1250,,12
-17,NUT-832-NYLOCK,,12
-18,217-2428-005 Rev1,,12
-19,NNYXXXX-ZZ_NNY2520-ZC,,12
-20,SBS1_SBS1032-0500ZC,,24
-21,217-2614-002_98430A132,,18
-22,Grayhill Nut,,6
-23,Grayhill Lock Washer,,6
-24,217-2761-001 rev1,,6
-25,217-3416-001 Rev1_13t Steel Pinion,,6
-26,Mini_Cim,,12
-27,Cross plate,,2
-28,Large cross brace,,2
-29,217-2585-001 Rev1,,144
-30,217-2585-002 Rev1,,6
-31,217-2585-003 Rev2,,12
-32,217-2585-004 Rev1,,144
-33,BEAM-0750,,36
-34,90116A020_90116A020,,144
-35,217-2584-005 Rev1 A,,288
-36,Hub,,12
-37,Side plate,,2
-38,bearing,,6
-39,Triangle,,1
-40,Triangle Left,,1
+1,Unibody,Main Uni-body,2
+2,Large cross brace,The piece that goes all the way across,4
+3,Side plate,the  piece on the out side,4
+4,Triangle,one of the triangles,2
+5,Triangle Left,The other triangle,2
+6,Lifter,,2
